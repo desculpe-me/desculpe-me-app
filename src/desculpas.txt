@@ -2,7 +2,7 @@ minha internet caiu
 não posso almoçar fora
 to sem dinheiro
 preciso trocar o pneu do carro
-preciso trocar o pneu do moto
+preciso trocar o pneu da moto
 preciso trocar a corrente da moto
 preciso trocar a relação da moto
 tenho que buscar a minha mulher
@@ -19,3 +19,4 @@ to tomando remédio
 minha mulher não deixa
 meu pai não deixa
 minha mãe não deixa
+limpa que é cache

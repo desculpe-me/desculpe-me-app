@@ -24,7 +24,12 @@ async function processLineByLine() {
 
         files.push(`/permalink/${message_hash}`)
         fs.writeFileSync(__dirname + `/../build/permalink/${message_hash}.html`, template)
-
+        fs.writeFileSync(__dirname + `/../build/permalink/${message_hash}.txt`, line)
+        fs.writeFileSync(__dirname + `/../build/permalink/${message_hash}.json`, JSON.stringify({
+            hash: message_hash,
+            message: line,
+            permalink: `https://desculpe.me/permalink/${message_hash}`
+        }))
     }
 
     fs.writeFileSync(__dirname + '/../functions/messages.js', "module.exports = " + JSON.stringify(files))

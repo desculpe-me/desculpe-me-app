@@ -1,6 +1,11 @@
 # desculpe-me
 gerador de desculpas esfarrapadas para fugir dos seus problemas 🤷‍♂️.
 
+## links
+- https://desculpe.me/
+- https://desculpe.me/index.json
+- https://desculpe.me/index.txt
+
 ## requisitos
 ter boas desculpas para contribuir.
 

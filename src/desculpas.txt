@@ -2,7 +2,7 @@ minha internet caiu
 não posso almoçar fora
 to sem dinheiro
 preciso trocar o pneu do carro
-preciso trocar o pneu do moto
+preciso trocar o pneu da moto
 preciso trocar a corrente da moto
 preciso trocar a relação da moto
 tenho que buscar a minha mulher
@@ -31,3 +31,5 @@ estou estudando para uma prova importante.
 estou com muito trabalho acumulado
 tô fazendo jejum
 tenho que acordar cedo amanhã
+limpa que é cache
+
